@@ -1,1 +1,4 @@
 build/
+.paktrace/
+scripts/shared_pk02.shader
+textures/shared_pk02_src/*_p.jpg
