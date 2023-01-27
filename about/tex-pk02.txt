@@ -1,21 +1,20 @@
 textures/shared_pk02/*
 
-    Author
-        Philip 'Blazeeer' Klevestav (http://www.philipk.net/)
-	Modifications by Unvanquished Development
+	Author
+		Philip 'Blazeeer' Klevestav (http://www.philipk.net/)
+		Modifications by Unvanquished Development
 
-    License
-        Creative Commons Attribution 3.0 Unported License
-        (https://creativecommons.org/licenses/by/3.0/)
+	License
+		Creative Commons Attribution 3.0 Unported License
+		(https://creativecommons.org/licenses/by/3.0/)
 
-    Notes
-        - *_p.* files are preview images generated from the diffuse maps.
+	Notes
+		- *_p.* files are preview images generated from the diffuse maps.
 
-    Changes
-        - Addition maps may have been desaturated and put into grayscale mode.
-	- light01_d.* has been desaturated and light01_a.* was created from it.
-        - The file formats have been converted.
+	Changes
+		- Addition maps may have been desaturated and put into grayscale mode.
+		- light01_d.* has been desaturated and light01_a.* was created from it.
+		- The file formats have been converted.
 
-    Source
-        http://www.philipk.net/
-
+	Source
+		http://www.philipk.net/
